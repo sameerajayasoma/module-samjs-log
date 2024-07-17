@@ -1,0 +1,9 @@
+[package]
+org = "samjs"
+name = "log"
+version = "0.1.2"
+authors = ["samjs"]
+keywords = ["level", "format", "log", "logger", "logging", "contextual", "structured"]
+repository = "https://github.com/sameerajayasoma/module-samjs-log"
+license = ["Apache-2.0"]
+distribution = "2201.9.2"

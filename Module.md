@@ -11,9 +11,7 @@ The `samjs/log` package provides an enhanced logging API for Ballerina, supporti
 - **Extensible Context**: Easily add additional context to existing loggers.
 
 ## Usage
-
 To use the `samjs/log` package, import it in your Ballerina code:
-
 ```ballerina
 import samjs/log;
 ```
